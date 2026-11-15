@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+個人的な技術メモや検証結果をまとめています。
+
+🌐 Blog https://kitsukoba.com
+
+### Topics
+
+- JavaScript
+- WSL（Windows Subsystem for Linux）
+- Web Development
+  - LocalStrage
+  - SessionStrage
+  - IndexedDB
+  - OPFS
